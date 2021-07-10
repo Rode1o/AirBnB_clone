@@ -5,8 +5,8 @@ header {
     border-bottom: 1px solid;
 }
 .logo {
-    background-image: url("../images/logo.png") no-repeat center;
+    background: url("../images/logo.png") no-repeat center;
     width: 142px;
     height: 60px;
-    padding-left 20px;
+    padding-left: 20px;
 }
